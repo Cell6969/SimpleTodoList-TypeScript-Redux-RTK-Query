@@ -1,0 +1,16 @@
+.latihan_form{
+    margin: 20px;
+    border: 1px solid rgb(150, 150, 150);
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.latihan_form_item{
+    margin-top: 10px;
+    display: flex;
+}
+
+.latihan_form .latihan_form_item label{
+    width: 70px;
+}
