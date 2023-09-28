@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple Todo List App with TypeScript + Redux RTK Query
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
